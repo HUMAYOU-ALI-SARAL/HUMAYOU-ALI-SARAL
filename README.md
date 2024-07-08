@@ -16,7 +16,6 @@
 
 - 📫 How to reach me **humayoualisaral@gmail.com**
 
-- 📄 Know about my experiences [https://humayou.netlify.app/images/+92%203179007621.png](https://humayou.netlify.app/images/+92%203179007621.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
