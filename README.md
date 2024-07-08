@@ -28,4 +28,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humayou-ali-saral&show_icons=true&locale=en&layout=compact" alt="humayou-ali-saral" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayou-ali-saral&show_icons=true&locale=en" alt="humayou-ali-saral" /></p>
+
